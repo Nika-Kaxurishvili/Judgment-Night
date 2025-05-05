@@ -32,5 +32,4 @@
 ---
 
 > 💡 ეს პროექტი ჯერ განვითარებად ფაზაშია. გთხოვ, დაიცადე განახლებებისთვის და დასაბუთებული წინადადებები მოგვწერე Issues სექციაში.
-
-![ალტერნატიული ტექსტი](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGt5bG12aDduNTExdGs1cGtkc28xNm41bHc3eXF0MThleDB6NmV4MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ipfEdUr83aNoO4aBKQ/giphy.gif)
+(https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGt5bG12aDduNTExdGs1cGtkc28xNm41bHc3eXF0MThleDB6NmV4MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/12Hfq5imjfp4DS/giphy.gif)
