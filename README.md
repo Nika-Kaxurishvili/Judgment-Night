@@ -32,4 +32,6 @@
 ---
 
 > 💡 ეს პროექტი ჯერ განვითარებად ფაზაშია. გთხოვ, დაიცადე განახლებებისთვის და დასაბუთებული წინადადებები მოგვწერე Issues სექციაში.
-(https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGt5bG12aDduNTExdGs1cGtkc28xNm41bHc3eXF0MThleDB6NmV4MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/12Hfq5imjfp4DS/giphy.gif)
+
+![განკითხვის ღამე](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGt5bG12aDduNTExdGs1cGtkc28xNm41bHc3eXF0MThleDB6NmV4MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/12Hfq5imjfp4DS/giphy.gif)
+
